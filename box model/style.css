@@ -1,0 +1,28 @@
+.a{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+    border: rgb(104, 212, 207) 2px solid;
+}
+.a button{
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+}
+.b{
+    border: 2px rgb(212 ,165 , 94) solid;
+    background: rgb(95, 66, 21);
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+}
+.c{
+    border: 2px rgb(178, 100, 212) solid ;
+    background-color: lightblue;
+    padding: 8px ;
+    width: 150px;
+    margin:0 auto;
+
+    
+}
