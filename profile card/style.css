@@ -1,0 +1,28 @@
+.card{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+.title{
+    font-size: 18px;
+    color: gray;
+}
+button{
+    width: 100%;
+    color: white;
+    background-color: #000;
+    border: none;
+    padding: 9px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+a{
+    color:black;
+    margin: 5px;
+    font-size: 22px;
+}

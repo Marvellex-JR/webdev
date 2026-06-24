@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input, button{
+    padding: 10px;
+}
